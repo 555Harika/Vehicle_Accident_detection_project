@@ -33,7 +33,7 @@ Sends location via SMS using a GSM module in the event of an accident.
 SMS Alert System
 Sends an SMS to an emergency contact with a message and GPS coordinates.
 
-#How It Works
+# How It Works
 The system initializes and displays a welcome message.
 It checks if the seat belt is worn via IR sensor.
 If the seat belt is detected, it checks for alcohol.
